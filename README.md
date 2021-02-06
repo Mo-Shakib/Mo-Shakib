@@ -9,8 +9,7 @@
 - ⚡ Fun fact: I'm a coffee freak ☕
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shakib Spotify Playing" width="350" />](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c)
-
+[![Spotify](https://novatorem-beryl-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=LHOcshJJSHKc7sGoAU3IzA)
 ### Connect with me:
 
 [<img align="left" alt="Shakib | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/MohammadShakib.co)
