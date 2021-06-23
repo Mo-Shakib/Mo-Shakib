@@ -7,8 +7,7 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: mo.shakib.official@gmail.com
 - ⚡ Fun fact: I'm a coffee freak ☕
-### Spotify Playing 🎧
-[<img src="https://novatorem-k4qcuxzzg.vercel.app/api/spotify-playing" alt="Shakib Spotify Playing" width="350" />](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c)
+
 ### Connect with me:
 
 [<img align="left" alt="Shakib | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/MohammadShakib.co)
