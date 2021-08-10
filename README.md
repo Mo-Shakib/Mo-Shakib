@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, DS, Algo, ML
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about Python
-- 📫 How to reach me: mo.shakib.official@gmail.com
+- 📫 How to reach me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak ☕
 
 ### Connect with me:
