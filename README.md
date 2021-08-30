@@ -31,6 +31,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=TeX&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
-
 [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
