@@ -53,7 +53,7 @@
 
 <details>	
   <summary><b>&#x1f4c8; Contribution graph</b></summary>
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=dark" />
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github" />
 </details>
 <!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 
