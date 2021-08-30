@@ -8,14 +8,10 @@
 - 📫 How to reach me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak ☕
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&show_icons=true&theme=dark)
-
-
-
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad Shakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-mo__shakib-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/kanna6501)
 [![Gmail Badge](https://img.shields.io/badge/-shakib@duck.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
 <br>
 
