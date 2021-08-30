@@ -53,10 +53,7 @@
 
 <details>	
   <summary><b>&#x1f4c8; Contribution graph</b></summary>
-
-  <br />
-  and here's a graph for people who like graphs: 
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github" />
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=dark" />
 </details>
 <!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 
