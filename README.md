@@ -10,10 +10,13 @@
 
 ## 🔗 Connect with me:
 
+[![Gmail Badge](https://img.shields.io/badge/-shakib@duck.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
 [![Linkedin Badge](https://img.shields.io/badge/-MohammadShakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mohammadshakib/)
 [![Instagram Badge](https://img.shields.io/badge/-mo__shakib-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/mo__shakib)
 [![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
-[![Gmail Badge](https://img.shields.io/badge/-shakib@duck.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
+[![Discord Badge](https://img.shields.io/badge/-Shakib-babyblue?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
+
+
 <br>
 
 ## ⚡ Technologies
