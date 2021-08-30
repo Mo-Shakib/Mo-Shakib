@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammad Shakib - aka ___Shakib___ 👋
+### Hi there, I'm Mohammad Shakib - aka __Shakib__ 👋
 
 - 🎓 I'm a CSE student
 - 🔭 I’m currently working on competitive programming
@@ -8,7 +8,7 @@
 - 📫 How to reach me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak ☕
 
-### Connect with me:
+## 🔗 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohammadShakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mohammadshakib/)
 [![Instagram Badge](https://img.shields.io/badge/-mo__shakib-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/mo__shakib)
