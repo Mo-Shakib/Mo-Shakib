@@ -35,6 +35,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&layout=compact&theme=dark)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo-shakib&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
 [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
