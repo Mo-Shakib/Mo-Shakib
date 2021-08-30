@@ -8,6 +8,9 @@
 - 📫 How to reach me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak ☕
 
+[![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib)](https://github.com/Mo-Shakib/github-readme-stats)
+
+
 ### Connect with me:
 
 [<img align="left" alt="Shakib | Facebook" width="22px" src="https://raw.githubusercontent.com/Mo-Shakib/Mo-Shakib/main/Icons/fb.png" />](https://facebook.com/MoShakib.Official)
