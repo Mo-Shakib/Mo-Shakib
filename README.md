@@ -35,4 +35,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
 
-[![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mo-shakib)](https://github.com/mo-shakib/github-readme-stats)
+[![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib)](https://github.com/mo-shakib/github-readme-stats)
