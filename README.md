@@ -33,14 +33,16 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- /Technologies -->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&theme=dark&layout=compact)
 
 <!-- 1 -->
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://www.github.com/Mo-Shakib"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <!-- 1 -->
+<a href="https://www.github.com/Mo-Shakib"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo-shakib&theme=dark)](https://git.io/streak-stats)
 
