@@ -8,7 +8,7 @@
 - 💬 Ask me about Python
 - 📫 Mail me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak 
-- 🌐 [Mohammad Shakib](https://mo-shakib.me)
+- 🌐 [Mohammad Shakib](http://mo-shakib.me)
 
 ### 🔗 Connect with me:
 
