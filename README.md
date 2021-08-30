@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- /Technologies -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&theme=dark&layout=compact)
 
 <!-- 1 -->
 ## &#x1f4c8; GitHub Stats
