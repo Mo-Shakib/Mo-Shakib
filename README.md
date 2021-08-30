@@ -43,7 +43,13 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" />
 </details>
+<details>	
+  <summary><b>&#x1f4c8; Wakatime stats</b></summary>
 
-[![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact" />
+</details>
+
+<!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
