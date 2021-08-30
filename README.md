@@ -10,8 +10,9 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-MohammadShakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-mo__shakib-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/-MohammadShakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mohammadshakib/)
+[![Instagram Badge](https://img.shields.io/badge/-mo__shakib-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/mo__shakib)
+[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
 [![Gmail Badge](https://img.shields.io/badge/-shakib@duck.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
 <br>
 
@@ -29,7 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=TeX&layout=compact&theme=merko)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mo-Shakib&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=TeX&layout=compact&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
