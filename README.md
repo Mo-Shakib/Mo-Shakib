@@ -50,6 +50,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact" />
 </details>
 
+
+and here's a graph for people who like graphs: 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
 <!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
