@@ -37,7 +37,7 @@
 <a href="https://www.github.com/Mo-Shakib"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=dark" /></a>
 <!-- /Github stats v2 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo-shakib&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo-shakib&theme=dark$layout=compact)](https://git.io/streak-stats)
 
 [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats)
 
