@@ -43,6 +43,7 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" />
 </details>
+
 <details>	
   <summary><b>&#x1f4c8; Wakatime stats</b></summary>
 
@@ -50,10 +51,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact" />
 </details>
 
+<details>	
+  <summary><b>&#x1f4c8; Contribution graph</b></summary>
 
-and here's a graph for people who like graphs: 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
+  <br />
+  and here's a graph for people who like graphs: 
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github" />
+</details>
 <!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
