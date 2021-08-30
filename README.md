@@ -41,10 +41,8 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" />
 </details>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo-shakib&theme=dark&layout=compact)](https://git.io/streak-stats)
 
 [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats)
 
