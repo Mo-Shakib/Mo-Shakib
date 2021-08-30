@@ -3,7 +3,7 @@
 - 🎓 I'm a CSE student
 - 🏢 Undergraduate Student, CSE at BRAC University
 - 🔭 I’m currently working on competitive programming
-- 🌱 I’m currently learning DS, Algo
+- 🌱 I’m currently learning everything 😂
 - 🤔 I’m looking for help with DS
 - 💬 Ask me about Python
 - 📫 Mail me: shakib@duck.com
