@@ -58,8 +58,10 @@
 </details>
 
 <details>	
-  <summary><b>&#x1f4c8; Contribution graph</b></summary>
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github" />
+  <summary><b>&#x1f4c8; Github activity graph</b></summary>
+<!--   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github" /> -->
+  <!-- Github activity graph -->
+<a href="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github"> <img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true" /> </a>
 </details>
 <!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 <!-- Github activity graph -->
