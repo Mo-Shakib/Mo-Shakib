@@ -69,7 +69,7 @@
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" /></p>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" /></p>
 </details>
 
 <details>	
