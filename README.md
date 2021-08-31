@@ -65,8 +65,9 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
+  <p align="center">
     <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="192px"/></a>
+  <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="192px"/></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
