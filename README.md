@@ -26,6 +26,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Shakib-40567A?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
 [![Google Meet](https://img.shields.io/badge/Meet-00897B?style=flat-square&logo=google-meet&logoColor=white)](https://meet.google.com/ovz-rnhu-wsa)
 [![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
 
 
 
@@ -83,7 +84,6 @@
 </p>
 
 ## 💻 GitHub Stats
-<h2 align="center">💻 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px"/></a>
   <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&" height="192px"/></a><br>
