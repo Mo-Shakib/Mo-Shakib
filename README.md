@@ -8,14 +8,14 @@
 </p>
 
 - 🎓 Doing B. Sc in Computer Science & Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
-- 🔭 I’m currently working on competitive programming
+- 🔭 I’m currently working on DS, Algo & Competitive programming
 - 🌱 I’m currently learning everything 😂
 - 🤔 I’m looking for help with DS
 - 💬 Ask me about Python
 - 📫 Mail me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak 
 - 📃 Checkout my [Resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
-- 🌐 [Mohammad Shakib](http://mo-shakib.me)
+- 🌐 Web: [Mohammad Shakib](http://mo-shakib.me)
 
 ### 🔗 Connect with me:
 
@@ -55,15 +55,12 @@
     <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>    
 </p>
 
 ## 💻 GitHub Stats
-<!-- Github stats v2 -->
 <p align="center">
 <a href="https://www.github.com/Mo-Shakib"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=dark" /></a></p>
-<!-- /Github stats v2 -->
 
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
@@ -73,17 +70,13 @@
 
 <details>	
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
-<!--   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github" /> -->
   <!-- Github activity graph -->
 <a href="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github"> <img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true" /> </a>
 </details>
-<details>	
-  <summary><b>&#x1f4c8; Wakatime stats</b></summary>
 
-  <br />
+<details>	
+  <summary><b>&#x1f4c8; Wakatime stats</b></summary><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark" />
 </details>
-
-<!-- [![Shakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&layout=compact)](https://github.com/mo-shakib/github-readme-stats) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
