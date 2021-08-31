@@ -1,8 +1,6 @@
-
-
 <h3 align="center">
   Hi there, I'm Mohammad Shakib - aka <b> Shakib </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 
 <p align="center">
@@ -101,4 +99,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></p>
 </details>
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
