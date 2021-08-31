@@ -67,7 +67,7 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6"></a>
   <a href="#"><img alt="Adobe illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white"></a>
-  <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
+  <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%001e36.svg?logo=adobephotoshop&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
   
   <a href="#"><img alt="" src=""></a>
