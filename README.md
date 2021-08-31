@@ -14,7 +14,7 @@
 - 💬 Ask me about Python
 - 📫 Mail me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak 
-- 📃 Checkout my [Resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
+- 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
 - 🌐 Web: [Mohammad Shakib](http://mo-shakib.me)
 
 ### 🔗 Connect with me:
