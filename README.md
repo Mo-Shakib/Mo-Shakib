@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mohammad Shakib](http://mo-shakib.me) - aka __Shakib__ 👋
 
-<center> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Mohammad+Shakib;Engineering+Student;Always+learning+new+things;Python+Developer;Competitive+Programmer;Self+taught+Graphic+Designer)](https://git.io/typing-svg) </center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=Mohammad+Shakib;Engineering+Student;Always+learning+new+things;Python+Developer;Competitive+Programmer;Self+taught+Graphic+Designer)](https://git.io/typing-svg)
 
 - 🎓 Doing B. Sc in Computer Science & Engineering ([CSE](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse)) at [BRAC University](https://www.bracu.ac.bd/)
 - 🔭 I’m currently working on competitive programming
