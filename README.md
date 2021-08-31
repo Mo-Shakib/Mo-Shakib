@@ -50,7 +50,6 @@
   <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
@@ -73,22 +72,12 @@
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
   
   <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
 </p>
 
 ## 💻 GitHub Stats
 <p align="center">
   <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px"/></a>
-  <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&" height="192px"/></a><br>
+  <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&title=Shakib&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&" height="192px"/></a><br>
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 
