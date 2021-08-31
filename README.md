@@ -43,7 +43,7 @@
 <a href="https://www.github.com/Mo-Shakib"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=dark" /></a>
 <!-- /Github stats v2 -->
 
-<details>	
+<details align="center">	
   <summary><b>🔥 Github Streaks</b></summary>
 
   <br />
