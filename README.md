@@ -105,9 +105,9 @@
 </details>
 
 <details>	
-  <summary><b>&#x1f4c8; Wakatime stats</b></summary><br>
+  <summary><b>&#x1f4c8; This week I spend time on</b></summary><br>
   <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></p>
 </details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
