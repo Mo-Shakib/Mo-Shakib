@@ -38,10 +38,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- /Technologies -->
 
-## &#x1f4c8; GitHub Stats
+## 💻 GitHub Stats
 <!-- Github stats v2 -->
 <p align="center">
-<a href="https://www.github.com/Mo-Shakib"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=dark" /></a></p>
+<a href="https://www.github.com/Mo-Shakib"><img src="https://github-readme-stats.vercel.app/api?username=Mo-Shakib&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Shakib&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=dark" /></a></p>
 <!-- /Github stats v2 -->
 
 <details>	
