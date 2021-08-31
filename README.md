@@ -26,13 +26,13 @@
 [![Discord Badge](https://img.shields.io/badge/-Shakib-40567A?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
 [![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 
-
+https://meet.google.com/ovz-rnhu-wsa
 
 ### ⚡ Languages and Frameworks
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -43,8 +43,6 @@
 <!--   <a href="#"><img alt="" src=""></a> -->
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/pycharm-93c10b?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
