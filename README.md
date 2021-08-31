@@ -4,7 +4,7 @@
 </h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E85F7&center=true&lines=Mohammad+Shakib;Engineering+Student;Always+learning+new+things;Python+Developer;Competitive+Programmer;Self+taught+Graphic+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E85F7&center=true&lines=I'm+Shakib+%F0%9F%98%8E;Welcome+to+my+GitHub+profile;Feel+free+to+look+around...;Reach+me+out+if+you+need+help!;Nice+to+meet+you...!">
 </p>
 
 - 🎓 Doing B. Sc in Computer Science & Engineering ([CSE](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse)) at [BRAC University](https://www.bracu.ac.bd/)
