@@ -2,9 +2,11 @@
   Hi there, I'm Mohammad Shakib - aka <b> Shakib </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
+
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=Mohammad+Shakib;Engineering+Student;Always+learning+new+things;Python+Developer;Competitive+Programmer;Self+taught+Graphic+Designer)](https://git.io/typing-svg)
+  <a href="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=Mohammad+Shakib;Engineering+Student;Always+learning+new+things;Python+Developer;Competitive+Programmer;Self+taught+Graphic+Designer"></a>
 </p>
+
 - 🎓 Doing B. Sc in Computer Science & Engineering ([CSE](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse)) at [BRAC University](https://www.bracu.ac.bd/)
 - 🔭 I’m currently working on competitive programming
 - 🌱 I’m currently learning everything 😂
