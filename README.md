@@ -1,7 +1,6 @@
-### Hi there, I'm Mohammad Shakib - aka __Shakib__ 👋
+### Hi there, I'm [Mohammad Shakib](http://mo-shakib.me) - aka __Shakib__ 👋
 
-- 🎓 I'm a CSE student
-- 🏢 Undergraduate Student, CSE at BRAC University
+- 🎓 Doing B. Sc in Computer Science & Engineering ([CSE](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse)) at [BRAC University](https://www.bracu.ac.bd/)
 - 🔭 I’m currently working on competitive programming
 - 🌱 I’m currently learning everything 😂
 - 🤔 I’m looking for help with DS
