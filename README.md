@@ -4,7 +4,7 @@
 </h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1567F7&size=22&center=true&lines=Hello+World!;Welcome+to+my+GitHub+profile;Feel+free+to+look+around...;Reach+me+out+if+you+need+help!;Nice+to+meet+you...!;Have+a+nice+day!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1567F7&size=22&center=true&lines=Hello+World!;Welcome+to+my+GitHub+profile;Feel+free+to+look+around...;Reach+me+out+if+you+need+help!;Happy+to+see+you+here!;Have+a+nice+day!">
 </p>
 
 - 🎓 Doing B. Sc in Computer Science & Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
@@ -105,7 +105,8 @@
 
 <details>	
   <summary><b>&#x1f4c8; Wakatime stats</b></summary><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true" />
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true" /></p>
 </details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
