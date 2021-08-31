@@ -25,8 +25,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
 [![Discord Badge](https://img.shields.io/badge/-Shakib-40567A?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
 
-## ⚡ Technologies
-
+### ⚡ Technologies
+<p align="center">
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -36,7 +36,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<!-- /Technologies -->
+</p>
+  <!-- /Technologies -->
 
 ## 💻 GitHub Stats
 <!-- Github stats v2 -->
