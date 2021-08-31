@@ -69,7 +69,7 @@
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=false&theme=dark" /></p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" /></p>
 </details>
 
 <details>	
@@ -80,7 +80,7 @@
 
 <details>	
   <summary><b>&#x1f4c8; Wakatime stats</b></summary><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true" />
 </details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
