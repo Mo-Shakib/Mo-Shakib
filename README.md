@@ -44,7 +44,7 @@
 <!-- /Github stats v2 -->
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>🔥 Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=false&theme=dark" />
