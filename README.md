@@ -44,8 +44,8 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/pycharm-93c10b?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
