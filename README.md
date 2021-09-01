@@ -96,7 +96,7 @@
 <details>	
   <summary><b>&#x1f4c8; This week I spend time on</b></summary><br>
   <p align="center">
-    <a href="https://wakatime.com/shakib"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></a>
+    <a href="https://wakatime.com/shakib" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></a>
   </p>
 </details>
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></p>
