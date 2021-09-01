@@ -8,9 +8,9 @@
 </p>
 
 - 🎓 Doing B. Sc in Computer Science & Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
-- 🔭 I’m currently working on DS, Algo & Competitive programming
-- 🌱 I’m currently learning everything 😂
-- 🤔 I’m looking for help with DS
+- 👷‍♂️ I’m currently working on DS, Algo & Competitive programming
+- 🌱 Currently learning everything 😂
+- 🤔 Looking for help with DS
 - 💬 Ask me about Python
 - 📫 Mail me: shakib@duck.com
 - ⚡ Fun fact: I'm a coffee freak 
@@ -32,16 +32,15 @@
 
 
 ### ⚡ Languages and Frameworks
-![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?logo=java)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
+[![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
-
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
 <!-- style=flat-square& -->
 ### 🛠 Software and tools
 
@@ -49,6 +48,7 @@
 <!--   <a href="#"><img alt="" src=""></a> -->
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -72,8 +72,6 @@
   <a href="#"><img alt="Adobe illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white"></a>
   <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31a8fe.svg?logo=adobephotoshop&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-  
-  <a href="#"><img alt="" src=""></a>
 </p>
 
 ## 💻 GitHub Stats
@@ -101,4 +99,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></p>
 </details>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)](#)
