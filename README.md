@@ -4,7 +4,7 @@
 </h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1567F7&size=22&center=true&lines=Hello+World!;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1567F7&size=22&center=true&lines=Hello+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
 </p>
 
 - 🎓 Doing B. Sc in Computer Science & Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
@@ -31,7 +31,7 @@
 
 
 
-### ⚡ Languages and Frameworks
+### ⚡ Languages and Frameworks:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#)
@@ -42,8 +42,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
 <!-- style=flat-square& -->
-### 🛠 Software and tools
 
+### 🛠 Software and tools:
 <p>
 <!--   <a href="#"><img alt="" src=""></a> -->
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -76,27 +76,27 @@
 
 ## 💻 GitHub Stats
 <p align="center">
-  <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px"/></a>
-  <a href="https://github.com/mo-shakib/github-readme-stats"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&" height="192px"/></a><br>
+  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px"/></a>
+  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&" height="192px"/></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" /></p>
+  <a href="#"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark" /></a></p>
 </details>
 
 <details>	
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
   <!-- Github activity graph -->
-<a href="https://activity-graph.herokuapp.com/graph?username=mo-shakib&theme=github"> <img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true" /> </a>
+<a href="#"><img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true" /> </a>
 </details>
 
 <details>	
   <summary><b>&#x1f4c8; This week I spend time on</b></summary><br>
   <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></p>
+    <a href="https://wakatime.com/shakib"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></a>
+  </p>
 </details>
-
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi)](#)
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></p>
