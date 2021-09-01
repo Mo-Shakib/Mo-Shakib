@@ -32,7 +32,7 @@
 
 
 ### ⚡ Languages and Frameworks
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
