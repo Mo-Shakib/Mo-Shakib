@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1567F7&size=22&center=true&lines=Hello+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
 </p>
 
-- 🎓 Doing B. Sc in Computer Science & Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
-- 👷‍♂️ I’m currently working on DS, Algo & Competitive programming
+- 🎓 Doing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
+- 👷‍♂️ I’m working on Data Structures & Algorithms
 - 🌱 Currently learning everything 😂
 - 🤔 Looking for help with DS
 - 💬 Ask me about Python
@@ -18,16 +18,16 @@
 - 🌐 Web: [Mohammad Shakib](http://mo-shakib.me)
 
 ### 🔗 Connect with me:
-
-[![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mohammadshakib/)
-[![Instagram Badge](https://img.shields.io/badge/-mo__shakib-ac28a3?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/mo__shakib)
-[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
-[![Twitter](https://img.shields.io/badge/@iMohammadShakib-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iMohammadShakib)
-[![Discord Badge](https://img.shields.io/badge/-Shakib-40567A?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
-[![Google Meet](https://img.shields.io/badge/Meet-00897B?style=flat-square&logo=google-meet&logoColor=white)](https://meet.google.com/ovz-rnhu-wsa)
-[![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
+<!-- style=flat-square& -->
+[![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mohammadshakib/)
+[![Instagram Badge](https://img.shields.io/badge/-mo__shakib-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/mo__shakib)
+[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
+[![Twitter](https://img.shields.io/badge/@iMohammadShakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iMohammadShakib)
+[![Discord Badge](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
+[![Google Meet](https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/ovz-rnhu-wsa)
+[![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 
 
 
