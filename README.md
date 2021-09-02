@@ -9,10 +9,10 @@
 
 - 🎓 Doing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
 - 👷‍♂️ I’m working on Data Structures & Algorithms
-- 🌱 Currently learning everything 😂
-- 🤔 Looking for help with DS
+- 🌱 Currently learning everything
+- 🔭 Looking for help with DS
 - 💬 Ask me about Python
-- 📫 Mail me: shakib@duck.com
+- 📫 Mail me: [shakib@duck.com](mailto:shakib@duck.com)
 - ⚡ Fun fact: I'm a coffee freak 
 - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
 - 🌐 Web: [Mohammad Shakib](http://mo-shakib.me)
