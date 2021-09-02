@@ -38,9 +38,10 @@
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#)
 <!-- style=flat-square& -->
 
 ### 🛠 Software and tools:
@@ -99,4 +100,5 @@
     <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></a>
   </p>
 </details>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></p>
+<h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3>
+<!-- <a href="https://buymeacoffee.com/moshakib"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> -->
