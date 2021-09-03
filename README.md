@@ -92,7 +92,7 @@
 <details>	
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
   <!-- Github activity graph -->
-<a href="#"><img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true" /> </a>
+<a href="#"><img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
 </details>
 
 <details>	
