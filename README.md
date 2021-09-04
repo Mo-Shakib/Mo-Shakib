@@ -94,11 +94,11 @@
   <!-- Github activity graph -->
 <a href="#"><img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
 </details>
-
+<!-- &hide=other -->
 <details>	
   <summary><b>&#x1f4c8; This week I spend time on</b></summary><br>
   <p align="center">
-    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&hide=other&theme=dark&hide_border=true&&hide_title=true" /></a>
+    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&theme=dark&hide_border=true&&hide_title=true" /></a>
   </p>
 </details>
 <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3>
