@@ -4,7 +4,7 @@
 </h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1567F7&size=24&center=true&lines=Hello+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=24&center=true&lines=Hello+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
 </p>
 
 - 🎓 Doing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
