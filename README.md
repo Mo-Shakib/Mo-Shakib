@@ -34,14 +34,14 @@
 ### ⚡ Languages and Frameworks:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#)
+<!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
+<!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#)
+<!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#) -->
 <!-- style=flat-square& -->
 
 ### 🛠 Software and tools:
