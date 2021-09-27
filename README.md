@@ -98,7 +98,7 @@
   <summary><b>&#x23F2; I spend time on</b></summary><br>
   <p align="center">
     <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&&hide_title=true&hide=other" /></a>
-  <p align="center"><i> 30 Aug, 2021 - Today</i></p>
+<!--   <p align="center"><i> 30 Aug, 2021 - Today</i></p> -->
   </p>
 </details>
 <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3>
