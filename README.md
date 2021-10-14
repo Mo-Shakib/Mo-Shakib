@@ -1,10 +1,13 @@
+<img align="right" src="https://gpvc.arturio.dev/Mo-Shakib"><span>
 <h3 align="center">
   Hi there, I'm Mohammad Shakib - aka <b> Shakib </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
-
+<!-- <span> -->
+<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib" width="100"> -->
+<!-- </span> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
 </p>
 
 - 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
@@ -101,5 +104,6 @@
 <!--   <p align="center"><i> 30 Aug, 2021 - Today</i></p> -->
   </p>
 </details>
-<h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3>
+<!-- <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3> -->
 <!-- <a href="https://buymeacoffee.com/moshakib"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> -->
+<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib"> -->
