@@ -80,8 +80,8 @@
 
 ## 💻 GitHub Stats
 <p align="center">
-  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&hide_title=true" height="192px" width="480px"></a>
-  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notenook&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&hide_title=true" height="192px" width="350px"></a><br>
+  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&hide_title=true" height="192px" width="460px"></a>
+  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notenook&bg_color=151515&title_color=f2f2f2&icon_color=79fe96&hide_title=true" height="192px" width="340px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
