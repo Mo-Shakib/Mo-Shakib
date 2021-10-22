@@ -1,4 +1,8 @@
-<img align="right" src="https://gpvc.arturio.dev/Mo-Shakib" width="100">
+<p align="right">
+  <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/d2d1b7ff-6f82-4abb-8592-fd7cfc351d22.svg"></a>
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
+</p>
+<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib" width="100"> -->
 <h3 align="center">
   Hi there, I'm Mohammad Shakib
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -81,7 +85,7 @@
 ## 💻 GitHub Stats
 <p align="center">
   <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="460px"></a>
-  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notenook&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="340px"></a><br>
+  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="340px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
@@ -98,9 +102,9 @@
 </details>
 <!-- &hide=other -->
 <details>	
-  <summary><b>&#x23F2; I spend time on</b></summary><br>
+  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
   <p align="center">
-    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&langs_count=8&layout=compact&theme=dark&hide_border=true&&hide_title=true&hide=other" /></a>
+    <a href="#"><img src="https://wakatime.com/share/@shakib/22d75d08-ab04-4824-a3da-c83a932f8603.svg"></a>
 <!--   <p align="center"><i> 30 Aug, 2021 - Today</i></p> -->
   </p>
 </details>
