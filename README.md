@@ -2,16 +2,12 @@
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/d2d1b7ff-6f82-4abb-8592-fd7cfc351d22.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
 </p>
-<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib" width="100"> -->
 <h3 align="center">
   Hi there, I'm Mohammad Shakib
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
-<!-- <span> -->
-<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib" width="100"> -->
-<!-- </span> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊"></a>
 </p>
 
 - 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
