@@ -84,8 +84,8 @@
 
 ## 💻 GitHub Stats
 <p align="center">
-  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="460px"></a>
-  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="340px"></a><br>
+  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
@@ -106,8 +106,14 @@
   <p align="center">
     <a href="#"><img src="https://wakatime.com/share/@shakib/22d75d08-ab04-4824-a3da-c83a932f8603.svg"></a>
 <!--   <p align="center"><i> 30 Aug, 2021 - Today</i></p> -->
-  </p>
+<!--   </p>
 </details>
+<details>	
+  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
+  <p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&show_private=true&theme=dark&hide=other,bux,tutorial%20videos&layout=compact&hide_border=true"></a>
+  </p>
+</details> -->
 <!-- <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3> -->
 <!-- <a href="https://buymeacoffee.com/moshakib"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> -->
 <!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib"> -->
