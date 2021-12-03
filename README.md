@@ -18,7 +18,7 @@
 - 📫 Mail me: [shakib@duck.com](mailto:shakib@duck.com)
 - ⚡ Fun fact: I'm a coffee freak 
 - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
-- 🌐 Web: [Mohammad Shakib](http://mo-shakib.me)
+- 🌐 Web: [Mohammad Shakib](https://mo-shakib.me)
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
@@ -30,17 +30,18 @@
 [![Twitter](https://img.shields.io/badge/@iMohammadShakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iMohammadShakib)
 [![Discord Badge](https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
 [![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
-<!-- [![Google Meet](https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/ovz-rnhu-wsa) -->
 
 
 ### ⚡ Languages and Frameworks:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
+
 <!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
 <!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
 <!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#) -->
