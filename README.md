@@ -22,12 +22,11 @@
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mohammadshakib/)
-[![Instagram Badge](https://img.shields.io/badge/-mo__shakib-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/mo__shakib/)](https://instagram.com/mo__shakib)
 [![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
+[![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
 [![Reddit](https://img.shields.io/badge/@mo__shakib-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
-[![Twitter](https://img.shields.io/badge/@iMohammadShakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iMohammadShakib)
 [![Discord Badge](https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
 [![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 
