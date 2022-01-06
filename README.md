@@ -101,15 +101,9 @@
   <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
   <p align="center">
     <a href="#"><img src="https://wakatime.com/share/@shakib/22d75d08-ab04-4824-a3da-c83a932f8603.svg"></a>
-<!--   <p align="center"><i> 30 Aug, 2021 - Today</i></p> -->
-<!--   </p>
-</details>
-<details>	
-  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
-  <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakib&show_private=true&theme=dark&hide=other,bux,tutorial%20videos&layout=compact&hide_border=true"></a>
   </p>
-</details> -->
-<!-- <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3> -->
-<!-- <a href="https://buymeacoffee.com/moshakib"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> -->
-<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib"> -->
+</details>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  
