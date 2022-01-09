@@ -100,7 +100,7 @@
 <details>	
   <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
   <p align="center">
-    <a href="#"><img src="https://wakatime.com/share/@shakib/22d75d08-ab04-4824-a3da-c83a932f8603.svg"></a>
+    <a href="#"><img src="https://wakatime.com/share/@Shakib/98a52253-aecd-48c6-a3f4-fb28cdabf4c9.svg"></a>
   </p>
 </details>
 
