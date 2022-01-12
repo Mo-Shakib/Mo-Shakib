@@ -103,18 +103,6 @@
     <a href="#"><img src="https://wakatime.com/share/@Shakib/ec179c03-1544-4124-b524-7a30f74fdc5b.svg"></a>
   </p>
 </details>
-<details>	
-  <summary> <b>
-    :zap: Recent GitHub Activity</b>
-  </summary>
-  <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Mo-Shakib/LeetCode/issues/3) in [Mo-Shakib/LeetCode](https://github.com/Mo-Shakib/LeetCode)
-2. ❗️ Closed issue [#26](https://github.com/JacobLinCool/LeetCode-Stats-Card/issues/26) in [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
-3. 🗣 Commented on [#26](https://github.com/JacobLinCool/LeetCode-Stats-Card/issues/26) in [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
-4. ❗️ Opened issue [#26](https://github.com/JacobLinCool/LeetCode-Stats-Card/issues/26) in [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
-5. ❗️ Opened issue [#1396](https://github.com/anuraghazra/github-readme-stats/issues/1396) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:activity-->
-</details>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
