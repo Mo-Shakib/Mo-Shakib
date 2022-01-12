@@ -103,6 +103,12 @@
     <a href="#"><img src="https://wakatime.com/share/@Shakib/ec179c03-1544-4124-b524-7a30f74fdc5b.svg"></a>
   </p>
 </details>
+<details>	
+  <summary> <b>
+    :zap: Recent GitHub Activity</b>
+  </summary>
+  <!--START_SECTION:activity-->
+</details>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
