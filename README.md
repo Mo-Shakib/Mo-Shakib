@@ -17,13 +17,13 @@
 - 📫 Mail me: [shakib@duck.com](mailto:shakib@duck.com)
 - ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
 - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
-- 🌐 Web: [Mohammad Shakib](https://mo-shakib.me)
+- 🌐 Web: [Mohammad Shakib](https://mo-shakib.github.io)
 <!-- - 💬 Ask me about Python -->
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadshakib/)](https://www.linkedin.com/in/mo-shakib/)
-[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/)](https://www.facebook.com/MoShakib.official/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
+[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/MoShakib.official/)
 [![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
 [![Reddit](https://img.shields.io/badge/@mo__shakib-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
 [![Discord Badge](https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
