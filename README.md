@@ -12,8 +12,8 @@
 
 - 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
 - 👷‍♂️ I’m working on Web Development
-- 🧠 Currently learning Database and Operating systems 
-- 🔭 Looking for help with Database
+- 🧠 Currently learning ML
+- 🔭 Looking for help with ML
 - 📫 Mail me: [shakib@duck.com](mailto:shakib@duck.com)
 - ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
 - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
