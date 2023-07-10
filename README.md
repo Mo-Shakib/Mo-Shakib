@@ -26,7 +26,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/MoShakib.official/)
 [![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
 [![Reddit](https://img.shields.io/badge/@mo__shakib-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
-[![Discord Badge](https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
+[![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
 [![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 
 
