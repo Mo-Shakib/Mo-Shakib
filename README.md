@@ -10,10 +10,10 @@
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-- 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
+- 🎓 Computer Science grad from [BRAC University](https://www.bracu.ac.bd/)
 - 👷‍♂️ I’m working on [He Codes](https://he-codes.github.io)
-- 🧠 Currently learning ML
-- 🔭 Looking for help with ML
+- 🧠 Currently learning MERN
+- 🔭 Looking for help with Backend Development
 - 📫 Mail me: [shakib@duck.com](mailto:mo.shakib.official@gmail.com)
 - ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
 - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
