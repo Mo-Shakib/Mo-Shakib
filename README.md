@@ -18,11 +18,8 @@
 
 - 💼 **Open to work** — Freelance, Contract & Full-Time opportunities
 - 🛒 Building eCommerce solutions with **Shopify**, **WooCommerce** & **WordPress**
-- 🧠 Currently sharpening **MERN Stack** & exploring **AI/ML** integrations
 - 🔭 Actively seeking collaborations on **Web Development** & **Backend Engineering**
 - 🌐 Portfolio: [Mohammad Shakib](https://mo-shakib.github.io)
-- 📫 Reach me: [mo.shakib.official@gmail.com](mailto:mo.shakib.official@gmail.com)
-- 📃 [View my Resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
 - ⚡ Fun fact: My first program wasn't "Hello, World!" 😌
 
 ---
@@ -79,6 +76,7 @@
 
 ### ⚡ Languages & Other Skills:
 
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![Swift](https://img.shields.io/badge/-Swift-5e5e5e?logo=swift)](#)
@@ -119,6 +117,7 @@
 | 🌐 Website Development | WordPress, React, Next.js — responsive & SEO-ready |
 | ⚙️ Full Stack Web App | MERN stack apps with REST APIs |
 | 🤖 AI Integration | Chatbots, recommendation systems, data pipelines |
+| 🎨 UI/UX | Clean, modern interfaces using Tailwind & Figma |
 
 📩 **Let's talk:** [mo.shakib.official@gmail.com](mailto:mo.shakib.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mo-shakib/)
 
@@ -133,7 +132,7 @@
 <details>
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-    <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a>
+    <a href="#"><img width="500px" src="https://streak-stats.demolab.com/?user=mo-shakib&hide_border=true&theme=dark"></a>
   </p>
 </details>
 
@@ -145,7 +144,6 @@
 </details>
 
 ---
-
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
